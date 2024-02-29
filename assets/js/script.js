@@ -16,7 +16,7 @@ const openAiUrl = 'https://api.openai.com/v1/completions';
 const dalleImageURL = 'https://api.openai.com/v1/images/generations';
 const headers = {
   "Content-Type": "application/json",
-  "Authorization": `Bearer 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`
+  "Authorization": `Bearer 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`
 }
 
 search.addEventListener('click', function() {
